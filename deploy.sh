@@ -5,7 +5,7 @@ set -e
 yarn build
 
 # 进入待发布的目录
-cd docs/.vitepress/dist
+cd dist
 
 git init
 git add -A

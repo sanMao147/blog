@@ -382,19 +382,6 @@ export const NAV_DATA: NavData[] = [
         desc: '一个关于分享和探索的地方',
         link: 'https://www.v2ex.com',
       },
-      {
-        title: 'SegmentFault 思否',
-        icon: 'https://static.segmentfault.com/main_site_next/0dc4bace/touch-icon.png',
-        desc: '技术问答开发者社区',
-        link: 'https://segmentfault.com',
-      },
-      {
-        title: '博客园',
-        // icon: 'https://common.cnblogs.com/favicon.ico',
-        icon: '/icons/cnblogs.svg',
-        desc: '博客园是一个面向开发者的知识分享社区',
-        link: 'https://www.cnblogs.com',
-      },
     ],
   },
   {

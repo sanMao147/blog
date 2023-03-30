@@ -3,9 +3,9 @@
     "vitepress": "^1.0.0-alpha.61"
   },
   "scripts": {
-    "dev": "vitepress dev docs --open",
-    "build": "vitepress build docs",
-    "serve": "vitepress serve docs"
+    "docs:dev": "vitepress dev docs --open",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
   },
   "dependencies": {
     "@mdit-vue/shared": "^0.12.0",

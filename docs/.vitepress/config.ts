@@ -3,7 +3,6 @@ import { defineConfig } from 'vitepress'
 import { head, nav, sidebar } from './configs'
 
 export default defineConfig({
-  outDir: '../dist',
   lang: 'zh-CN',
   title: '奥力给',
   description:

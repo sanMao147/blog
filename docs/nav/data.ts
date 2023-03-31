@@ -406,7 +406,7 @@ export const NAV_DATA: NavData[] = [
         link: 'https://momoyu.cc',
       },
       {
-        icon: 'https://momoyu.cc/icon-192.png',
+        icon: 'https://wallhaven.cc/favicon.ico',
         title: 'wallhaven',
         desc: '壁纸下载',
         link: 'https://wallhaven.cc',
@@ -423,23 +423,18 @@ export const NAV_DATA: NavData[] = [
         desc: '全国图书馆参考咨询联盟',
         link: 'http://www.ucdrs.superlib.net/',
       },
+
       {
-        icon: 'https://momoyu.cc/icon-192.png',
-        title: '无错小说网',
-        desc: '免费小说网_校对小说',
-        link: 'http://www.12z.cn',
-      },
-      {
-        icon: 'https://momoyu.cc/icon-192.png',
-        title: '查股网',
-        desc: '北向资金实时查询',
-        link: 'http://chaguwang.cn/north1.html',
-      },
-      {
-        icon: 'https://momoyu.cc/icon-192.png',
+        icon: 'https://ysxd.tv/favicon.ico',
         title: '影视向导',
         desc: '免费在线电影电视剧在线观看下载',
         link: 'https://ysxd.tv/',
+      },
+      {
+        icon: 'https://fe.ecool.fun/fe.ico',
+        title: '面试宝典',
+        desc: '前端面试题宝典,打造更专业的前端面试题库',
+        link: 'https://fe.ecool.fun/',
       },
     ],
   },

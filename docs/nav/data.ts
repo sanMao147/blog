@@ -364,6 +364,12 @@ export const NAV_DATA: NavData[] = [
         desc: '3d素材相关纹理等',
         link: 'https://polyhaven.com/',
       },
+      {
+        icon: 'https://polyhaven.com/favicon.ico',
+        title: 'HDRI-to-CubeMap',
+        desc: 'HDR立方体材质转换工具',
+        link: 'https://matheowis.github.io/HDRI-to-CubeMap/',
+      },
     ],
   },
   {

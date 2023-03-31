@@ -141,6 +141,12 @@ export const NAV_DATA: NavData[] = [
         link: 'https://cn.vuejs.org',
       },
       {
+        icon: 'https://static.vue-js.com/6280b990-ff19-11ea-85f6-6fac77c0c9b3.png',
+        title: 'Vue3 One Piece',
+        desc: '更快，更轻，易维护，更多的原生支持',
+        link: 'https://www.vue3js.cn/',
+      },
+      {
         icon: 'https://cn.vuejs.org/logo.svg',
         title: 'Vue 2',
         desc: '渐进式 JavaScript 框架',

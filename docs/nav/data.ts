@@ -346,13 +346,25 @@ export const NAV_DATA: NavData[] = [
         link: 'https://threejs.org/docs',
       },
       {
+        icon: 'https://echarts.apache.org/zh/images/favicon.png?_v_=20200710_1',
+        title: 'echarts',
+        desc: '一个基于 JavaScript 的开源可视化图表库',
+        link: 'https://echarts.apache.org/zh/index.html',
+      },
+      {
+        icon: 'https://d3js.org/favicon.png',
+        title: 'd3',
+        desc: '一个基于 JavaScript 的开源可视化图表库',
+        link: 'https://d3js.org/',
+      },
+      {
         icon: 'https://polyhaven.com/favicon.ico',
         title: 'threejs',
         desc: 'threejs教程',
         link: 'http://www.webgl3d.cn/Three.js/',
       },
       {
-        icon: 'https://polyhaven.com/favicon.ico',
+        icon: 'https://static.sketchfab.com/static/builds/web/dist/static/assets/images/favicon/2f53b6d625305dad5f61e53c5b3d8125-v2.png',
         title: 'sketchfab',
         desc: 'Manage your 3D assets. Distribute 3D & AR experiences. Collaborate with others. Showcase your work. Buy & sell 3D models.',
         link: 'https://sketchfab.com/',

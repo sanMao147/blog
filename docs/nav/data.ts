@@ -352,12 +352,19 @@ export const NAV_DATA: NavData[] = [
         link: 'https://cesium.com/learn/',
       },
       {
+        icon: 'https://cesium.com/cesium-logomark-192.png',
+        title: 'cesium.js中文网',
+        desc: `api文档翻译`,
+        link: 'http://cesium.xin/cesium/cn/Documentation1.62/',
+      },
+      {
         icon: 'https://leafletjs.cn/docs/images/favicon.ico',
         title: 'leafletjs',
         desc: `一个开源并且对移动端友好的
         交互式地图 JavaScript 库`,
         link: 'https://leafletjs.cn/',
       },
+
       {
         icon: 'https://echarts.apache.org/zh/images/favicon.png?_v_=20200710_1',
         title: 'echarts',

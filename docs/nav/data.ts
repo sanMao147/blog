@@ -34,13 +34,13 @@ export const NAV_DATA: NavData[] = [
         link: 'https://www.json.cn',
       },
       {
-        icon: 'https://tool.lu/favicon.ico',
+        icon: 'https://disease.sh/assets/img/virus.png',
         title: 'disease',
         desc: '疫情数据',
         link: 'https://disease.sh/',
       },
       {
-        icon: 'https://tool.lu/favicon.ico',
+        icon: 'https://datahub.io/static/img/opendata/datahub.png',
         title: 'datahub',
         desc: '各种数据集合网站',
         link: 'https://datahub.io/',
@@ -50,6 +50,12 @@ export const NAV_DATA: NavData[] = [
         title: '字体格式化',
         desc: 'This converts a font to a typeface',
         link: 'https://gero3.github.io/facetype.js/',
+      },
+      {
+        icon: 'https://snippet-generator.app/favicon-32x32.png',
+        title: 'snippet-generator',
+        desc: '自定义代码块快捷生成',
+        link: 'https://snippet-generator.app/',
       },
     ],
   },

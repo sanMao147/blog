@@ -11,7 +11,7 @@ export default defineConfig({
   head,
   lastUpdated: true,
   cleanUrls: true,
-
+  base: '/blog/',
   /* markdown 配置 */
   markdown: {
     lineNumbers: true,

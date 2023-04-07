@@ -370,7 +370,12 @@ const ViewerList = {
         交互式地图 JavaScript 库`,
       link: 'https://leafletjs.cn/',
     },
-
+    {
+      icon: 'https://particles.js.org/tsParticles-64.png',
+      title: 'particles',
+      desc: `一个开源粒子动画 JavaScript 库`,
+      link: 'https://particles.js.org/',
+    },
     {
       icon: 'https://echarts.apache.org/zh/images/favicon.png?_v_=20200710_1',
       title: 'echarts',

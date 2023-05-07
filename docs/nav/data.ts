@@ -455,6 +455,12 @@ const LazyList = {
       link: 'https://momoyu.cc',
     },
     {
+      icon: 'https://tool.browser.qq.com/favicon.ico',
+      title: '帮小忙',
+      desc: '腾讯QQ浏览器在线工具箱',
+      link: 'https://tool.browser.qq.com/',
+    },
+    {
       icon: 'https://wallhaven.cc/favicon.ico',
       title: 'wallhaven',
       desc: '壁纸下载',

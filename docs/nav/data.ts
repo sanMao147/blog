@@ -389,10 +389,10 @@ const ViewerList = {
       link: 'https://d3js.org/',
     },
     {
-      icon: 'https://polyhaven.com/favicon.ico',
+      icon: 'http://www.yanhuangxueyuan.com/favicon.png',
       title: 'threejs',
       desc: 'threejs教程',
-      link: 'http://www.webgl3d.cn/Three.js/',
+      link: 'http://yanhuangxueyuan.com/',
     },
     {
       icon: 'https://static.sketchfab.com/static/builds/web/dist/static/assets/images/favicon/2f53b6d625305dad5f61e53c5b3d8125-v2.png',

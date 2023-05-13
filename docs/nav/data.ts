@@ -383,6 +383,12 @@ const ViewerList = {
       link: 'https://echarts.apache.org/zh/index.html',
     },
     {
+      icon: 'https://echarts.apache.org/zh/images/favicon.png?_v_=20200710_1',
+      title: 'echarts社区',
+      desc: 'makeapie echarts社区图表可视化案例',
+      link: 'https://www.makeapie.cn/echarts',
+    },
+    {
       icon: 'https://d3js.org/favicon.png',
       title: 'd3',
       desc: '一个基于 JavaScript 的开源可视化图表库',

@@ -63,6 +63,12 @@ const commonTool = {
       desc: '自定义代码块快捷生成',
       link: 'https://snippet-generator.app/',
     },
+    {
+      icon: 'https://snippet-generator.app/favicon-32x32.png',
+      title: 'jsDelivr',
+      desc: 'jsDelivr - A free, fast, and reliable CDN for JS and open source',
+      link: 'https://www.jsdelivr.com/',
+    },
   ],
 }
 //React 生态
